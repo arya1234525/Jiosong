@@ -89,18 +89,18 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://ibb.co/WWkKx89c",
-                 "https://ibb.co/WWkKx89c",
-                 "https://ibb.co/WWkKx89c"]
+START_IMG_URL = ["https://ibb.co/tPcsDx15",
+                 "https://ibb.co/tPcsDx15",
+                 "https://ibb.co/tPcsDx15"]
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://ibb.co/zVgT2N6P"
+    "PING_IMG_URL", "https://files.catbox.moe/rp792b.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/jk6l11.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/rp792b.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/492a3bb2e880d19750b79.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/492a3bb2e880d19750b79.jpg"
-STREAM_IMG_URL = "https://graph.org/file/ff2af8d4d10afa1baf49e.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/rp792b.jpg"
 SOUNCLOUD_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
 YOUTUBE_IMG_URL = "https://graph.org/file/e8730fdece86a1166f608.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/0bb6f36796d496b4254ff.jpg"
